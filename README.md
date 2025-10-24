@@ -74,9 +74,9 @@ Motivated Computer & Communication Engineering student with hands-on experience 
 
 **Lycans Technical Team, Alexandria University** | _Jul 2024 – Jul 2025_
 
-- Built AI-powered robotics solutions using OpenCV and YOLO
-- Led technical documentation and team coordination
-- Contributed to award-winning robotics projects
+- Built AI-powered image processing pipelines using OpenCV & Python.
+- Implemented YOLO object detection and deployed systems on Linux environments.
+- designed ROV systems integrating computer vision and projectile calculations via ROS2. 
 
 ---
 
