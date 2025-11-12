@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi there, I'm Ahmed Alaa
+# Hi there, I'm Ahmed Alaa
 
-### 🎯 Software Engineering Intern | Front-End Developer | AI Enthusiast
+### Front-End Developer | AI Enthusiast
 
-### 📍 Alexandria, Egypt | 🎓 Computer & Communication Engineering Student
+### 📍 Alexandria, Egypt | Computer & Communication Engineering Student
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ahmedalaa8100&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ahmedalaa8100)
 [![GitHub followers](https://img.shields.io/github/followers/ahmedalaa8100?label=Followers&style=social)](https://github.com/ahmedalaa8100)
